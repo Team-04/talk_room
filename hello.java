@@ -5,4 +5,8 @@ public class hello {
 		int a = 8;
 		sayhello();
 	}
+	private void sayhello()
+	{
+	System.out.println("Hello!");
+	}
 }
